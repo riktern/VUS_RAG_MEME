@@ -1,0 +1,10 @@
+python-dotenv
+tqdm
+Pillow
+easyocr
+transformers
+torch
+sentence-transformers
+qdrant-client
+langgraph
+python-telegram-bot>=21.0
